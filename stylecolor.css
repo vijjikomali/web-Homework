@@ -1,0 +1,17 @@
+.color {
+    font-weight: default;
+    background-color: navy;
+    color: white;
+    font-size:35px;
+    font-style:arieal;
+}
+
+.first image {
+    width: 20%; 
+    float: left; 
+    margin : 4px;
+
+}
+
+.text {
+    float: right;
