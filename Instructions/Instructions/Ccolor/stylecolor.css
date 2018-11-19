@@ -1,0 +1,17 @@
+.color {
+    font-weight: bolder;
+    background-color: rgb(48, 48, 100);
+    color: whitesmoke;
+    font-size:35px;
+    font-style:arieal;
+}
+
+.first image {
+    width: 60%; 
+    float: left; 
+    margin : 4px;
+
+}
+
+.text {
+    float: right;
